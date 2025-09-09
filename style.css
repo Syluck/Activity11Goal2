@@ -1,0 +1,21 @@
+p{
+    display: block;
+}
+p.Red{ 
+    display: block;
+background-color: red;
+height: 500px;
+width: 500px;
+}
+p.Green{
+     display: block;
+background-color: green;
+height: 500px;
+width: 500px;
+}
+p.Blue{
+     display: block;
+background-color: blue;
+height: 500px;
+width: 500px;
+}
